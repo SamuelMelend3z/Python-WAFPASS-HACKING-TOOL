@@ -1,25 +1,17 @@
-# WAFPASS
+# WAFPASS-HACKING-TOOL
 
                                                                 
-                            ██╗    ██╗ █████╗ ███████╗██████╗  █████╗ ███████╗███████╗
-                            ██║    ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
-                            ██║ █╗ ██║███████║█████╗  ██████╔╝███████║███████╗███████╗
-                            ██║███╗██║██╔══██║██╔══╝  ██╔═══╝ ██╔══██║╚════██║╚════██║
-                            ╚███╔███╔╝██║  ██║██║     ██║     ██║  ██║███████║███████║
-                             ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
-                         
-                                WAFPASS - Copyright (c) 2017 Hamed Izadi (@hezd). 
-
+                           
         
 
-WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchmarking security solutions like WAF.
+WAFPASS-HACKING-TOOL Analysing parameters with all payloads' bypass methods, aiming at benchmarking security solutions like WAF.
 
 
    Today a great number of website owners around the globe use “Web Application Firewalls” to improve their security. However, these security applications suffer from many deficits such as poor performance, lack of updates, and so forth. Thus, they are hindered from working effectively against everyday attacks that are equipped with cutting edge technological innovations. This vulnerability can cause various issues and even lead to security failures.
    
-   WAFPASS’s ultimate goal is to present a solution for promoting security systems like WAF in addition to providing a general overview of the security solutions. 
+  WAFPASS-HACKING-TOOL ultimate goal is to present a solution for promoting security systems like WAF in addition to providing a general overview of the security solutions. 
    
-   WAFPASS supports HTTP,HTTPS connections, GET and POST requests and the use of Cookies in order to access pages restricted to authenticated users. Also, an intercepting proxy can be set up.
+   WAFPASS-HACKING-TOOL supports HTTP,HTTPS connections, GET and POST requests and the use of Cookies in order to access pages restricted to authenticated users. Also, an intercepting proxy can be set up.
    
    
 
@@ -34,9 +26,9 @@ WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchm
 
 
 ## Installation:
-  Download WAFPASS by cloning the Git repository:
+  Download WAFPASS-HACKING-TOOL by cloning the Git repository:
   
-      $ git clone https://github.com/wafpassproject/wafpass.git
+      $ git clone https://github.com/SamuelMelend3z/Python-WAFPASS-HACKING-TOOL.git
 
 
 ## Supported Platforms:
@@ -50,7 +42,7 @@ WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchm
 
   To get a list of all options and switches use:
   
-      $ python3 wapfass.py -h
+      $ python3 waf_ht.py -h
    
    
    
@@ -60,23 +52,19 @@ WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchm
       
 ## Support:
 
-WAFPASS is the project of many hours of work and total personal dedication.
+WAFPASS-HACKING-TOOL is the project of many hours of work and total personal dedication.
 
 Please help us to improve this project.
 
 ## Questions?
 
-Contact [me](mailto:hamedizadi@gmail.com)
+Contact [me](mailto:melendezsamuel138@gmail.com)
 
 ## Author
 
-Hamed Izadi 
+Samuel Melendez
 
-A Special Thanks To
 
-[Hamed Hosseini](mailto:hamedhoseini3@gmail.com) 
 
-## License
 
-[MIT](./LICENSE)
- 
+
